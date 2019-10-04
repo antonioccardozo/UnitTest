@@ -1,0 +1,27 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.testlog
+*.manifest
+*.suo
+/Conta/obj
+/Conta.Test/bin/Debug
+/Conta.Test/obj
+/.vs
+/Conta/bin/Debug
+/ContaTest.Mock/bin/Debug
+/ContaTest.Mock/obj/Debug
+/ContaTeste/bin/Debug
+/ContaTeste/obj/Debug
+/ContaTeste.NUnit/bin/Debug
+/ContaTeste.NUnit/obj/Debug
+/ContaTeste.NUnit/obj/Release
+/packages
+/ContaTest.Mock/obj/Release
+/ContaTeste/obj/Release
+/Conta.Test/Properties

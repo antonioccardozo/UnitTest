@@ -50,7 +50,7 @@ namespace ContaTesteNUnit
 
         [Test]
         [Category("Valores Inválidos")]
-        [Ignore("pendencia")]
+        //[Ignore("pendencia")]
         public void testSacarValorZero()
         {
             bool resultado = conta.Sacar(0);
@@ -60,7 +60,7 @@ namespace ContaTesteNUnit
 
         [Test]
         [Timeout(4000)]
-        [Ignore("pendencia")]
+        //[Ignore("pendencia")]
         public void testMetodoLento()
         {
             bool resultado = conta.Sacar(0);
